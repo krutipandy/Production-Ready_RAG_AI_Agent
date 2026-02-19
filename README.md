@@ -9,10 +9,15 @@ This project goes beyond simple RAG demos—featuring key production-level engin
 Most RAG examples are simple scripts or notebooks. This repository is built *from the ground up* as a **deployable RAG service** with real-world concerns addressed:
 
 ✔️ **Observability** — Logs, performance metrics, and debug-friendly outputs.
+
 ✔️ **Rate Limiting** — Protects APIs and resource usage.
+
 ✔️ **Retries & Resilience** — Robust handling of flaky external APIs.
+
 ✔️ **Orchestration** with Inngest — Modern serverless workflow handling.
+
 ✔️ **Vector Database Integration** — Efficient semantic search over ingested data.
+
 ✔️ **Interactive UI** — Streamlit front end for easy exploration.
 
 # 💡 Project Highlights
@@ -105,6 +110,7 @@ Automated tests ensure:
 * Vector retrieval correctness
 * Workflow orchestration
 * API endpoint responses
+
 
 
 
