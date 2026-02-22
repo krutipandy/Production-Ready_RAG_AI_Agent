@@ -153,11 +153,6 @@ pip install uv
 uv sync
 ```
 
-**Using pip:**
-```bash
-pip install -r requirements.txt
-```
-
 ### 4. Ingest Your Data
 ```bash
 python data_loader.py
@@ -282,3 +277,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 <p align="center">⭐ If this project helped you understand production RAG systems, please give it a star!</p>
+
